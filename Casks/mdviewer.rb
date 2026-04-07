@@ -1,6 +1,6 @@
 cask "mdviewer" do
   version "1.2.0"
-  sha256 "4cc2677dc829c227b8e26eff347cfddca8cf180c8e89c9a34428a40c2474aacf"
+  sha256 "abb6c14dbbb58703bf3b60aa8c79e66d00b445095599fc7377c2add17709cb7e로"
 
   url "https://github.com/ecsimsw/mdviewer/releases/download/v#{version}/MarkdownViewer.app.zip"
   name "MarkdownViewer"
